@@ -12,7 +12,6 @@ import view.Agenda;
 
 /**
  *
- * @author Marina Savitzki
 
 public class AgendaController {
     
